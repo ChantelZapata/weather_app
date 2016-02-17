@@ -1,0 +1,26 @@
+body {
+	font-style: Arial, Helvetica, sanserif;
+}
+
+.celsius-box {
+	float: left;
+	margin-left: 60px;
+}
+
+.fahrenheit-box {
+	float: right;
+	margin-right: 60px;
+}
+
+h1 {
+	margin-top: 60px;
+	margin-left: 60px;
+}
+
+button {
+	margin-top: 20px;
+}
+
+h2 {
+	font-weight: bold;
+}
